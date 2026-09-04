@@ -1,3 +1,4 @@
+# HI THIS IS ME SOLVING NEETCODE 150 QUESTIONS :)
 # NeetCode Solutions — @Palak-Sonkar-20
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
